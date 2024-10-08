@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+146
+pedir la edad de la persona y si tiene licencia de conduccion y es mayor de edad dejar que condusca, si no cumple con las condiciones no conducir.
+4
+1
+26
+'por favor digite su edad'
+5
+1
+1
+e
+4
+1
+38
+'¿usted tiene licencia de conduccion?'
+5
+1
+8
+licencia
+7
+0
+1
+23
+e>=18 and licencia='si'
+4
+1
+20
+'no puedes conducir'
+13
+4
+1
+17
+'puedes conducir'
+13
+1

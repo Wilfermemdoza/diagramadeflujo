@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+197
+acceso a plataforma
+pedir si el usuario es miembro premium o a acumulado mas de 100 puntos. Si cumple con alguna de las dos condiciones tiene acceso a contenido exclusivo. Si no, no tiene acceso. 
+4
+1
+75
+'¿es usted un miembro premium?
+Responder con un si o un no entre comillas'
+5
+1
+1
+p
+4
+1
+34
+'cuantos puntos tiene almacenados'
+5
+1
+1
+a
+7
+0
+1
+16
+p='si' or a>=100
+4
+1
+63
+'usted en este momento no puede acceder al contenido exclusivo'
+13
+4
+1
+58
+'usted en este momento tiene acceso a contenido exclusivo'
+13
+1

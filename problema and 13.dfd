@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+139
+control de acceso a sistema 
+pedir el usuario y la contraseña. si ambos son correctos, permitir acceso  al sistema. si no. denegar acceso.
+4
+1
+19
+'digite su usuario'
+5
+1
+7
+usuario
+4
+1
+22
+'digite su contraseña'
+5
+1
+10
+contrasena
+7
+0
+1
+40
+usuario='wilfer' and contrasena=12345678
+4
+1
+17
+'acceso denegado'
+4
+1
+20
+'a ocurido un error'
+13
+4
+1
+26
+'accediendo al sistema...'
+13
+1

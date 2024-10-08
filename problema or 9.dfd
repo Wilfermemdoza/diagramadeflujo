@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+172
+regalo por compras
+perdir el valor de la compra. si la compra es mayor a 80.000 o el cliente tiene una targeta de cliente frecuente, darle un regalo. si no, no hay regalo.
+4
+1
+36
+'digite el valor total de su compra'
+5
+1
+1
+c
+4
+1
+91
+'¿usted tiene una targeta de cliente frecuente?
+responda con un si o un no entre comillas'
+5
+1
+1
+f
+7
+0
+1
+17
+c>80000 or f='si'
+4
+1
+44
+'no te puedes ganar ningun regalo por ahora'
+13
+4
+1
+45
+'eres ganador de un regalo de nuestra tienda'
+13
+1

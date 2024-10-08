@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+153
+premio en concurso
+pedir al usuario que elija un numero entre 1 y 100. si el numero es 50 o 25, gana el premio. si no mostrar ''lo siento, no ganaste''.
+4
+1
+40
+'por favor digite un numero de 1 al 100'
+5
+1
+1
+n
+7
+0
+1
+12
+n=50 or n=25
+4
+1
+23
+'lo siento, no ganaste'
+13
+4
+1
+36
+'eres el feliz ganador. Felicidades'
+13
+1

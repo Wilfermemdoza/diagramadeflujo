@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+139
+premio por asistencia 
+pedir la asistencia a clase si es mayor del 80% y su nota es mayor a 4.5 se le dara un premio por su buen desempeño
+4
+1
+52
+'por favor digite su asistencia a case en porciento'
+5
+1
+1
+a
+4
+1
+30
+'digite su calificacion final'
+5
+1
+1
+c
+7
+0
+1
+15
+a>80 and c>=4.5
+4
+1
+38
+'no hay premio, esperamos mucho de ti'
+13
+4
+1
+38
+'se te otorga un premio por exelencia'
+4
+1
+13
+'Felicidades'
+13
+1

@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+162
+permiso para excursion
+pedir si el estudiante tiene el permiso firmado o si es mayor de edad. si cumple en alguna de las dos condiciones puede ir a la excursion'
+4
+1
+101
+'¿tienes el permiso firmado por tu acudiente?
+por favor responder con un si o un no entre comilllas'
+5
+1
+1
+f
+4
+1
+23
+'¿cuantos años tienes?'
+5
+1
+1
+e
+7
+0
+1
+15
+f='si' or e>=18
+4
+1
+31
+'no puedes ir a la excusion :('
+13
+4
+1
+57
+'puedes ir a la excursion, espero que te diviertas mucho'
+13
+1

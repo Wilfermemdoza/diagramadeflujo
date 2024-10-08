@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+143
+entrada gratis al parque
+pedir la edad del usuario. si tiene menos de 12 años o mas de 60 años, la entrada es gratis. si no, pagar la entrada.
+4
+1
+26
+'por favor digite su edad'
+5
+1
+1
+e
+7
+0
+1
+12
+e<12 or e>60
+4
+1
+58
+'no cumples con las condiciones debes de pagar la entrada'
+13
+4
+1
+58
+'usted entra de una forma gratuita espero que lo disfrute'
+13
+1

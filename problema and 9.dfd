@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+170
+promocion de cine
+pedir  el valor de dos entradas al cine. si el valor total es mayor a 40.000 y es miercoles, aplicar un descuento del 20%. si no. no aplicar descuento.
+4
+1
+37
+'digite el valor de sus dos entradas'
+5
+1
+6
+e1, e2
+6
+1
+5
+suma 
+7
+e1 + e2
+4
+1
+31
+'¿que dia de la semana es hoy?'
+5
+1
+3
+dia
+7
+0
+1
+30
+suma>40000 and dia='miercoles'
+4
+1
+44
+'no aplicas para ningun descuento por ahora'
+4
+1
+27
+'tu total a pagar es de...'
+4
+1
+4
+suma
+13
+4
+1
+50
+'aplicas para el descuento del miercoles del 20%' 
+6
+2
+9
+descuento
+11
+suma * 0.20
+5
+total
+16
+suma - descuento
+4
+1
+5
+total
+13
+1

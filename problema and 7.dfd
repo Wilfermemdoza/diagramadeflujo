@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+141
+ofertas de mercado
+pedir el valor de 2 productos. si ambos superan los 20.000 aplicar descuento del 10%. si no, mostrar ''no hay descuento''
+4
+1
+48
+'por favor digite el valor de sus dos productos'
+5
+1
+4
+a, b
+7
+0
+1
+19
+a>20000 and b>20000
+4
+1
+44
+'no aplicas para ningun descuento por ahora'
+4
+1
+27
+'tu total a pagar es de...'
+6
+1
+5
+suma1
+5
+a + b
+4
+1
+5
+suma1
+13
+4
+1
+53
+'se le aplicara a tus productos un descuento del 10%'
+6
+3
+5
+suma 
+5
+a + b
+9
+descuento
+11
+suma * 0.10
+5
+total
+16
+suma - descuento
+4
+1
+33
+'su total a pagar ahora es de...'
+4
+1
+5
+total
+13
+1

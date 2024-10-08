@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+150
+descuento de comida
+pedir el valor de una comida.Si la comida supera los 60.000 o es jueves, aplicar un descuento del 9% si no, no aplicar descuento.
+4
+1
+46
+'por favor digite el valor total de su comida'
+5
+1
+1
+c
+4
+1
+100
+'por favor digitar el dia de la semana que es hoy
+Responder con el dia de la semana entre comillas'
+5
+1
+1
+d
+7
+0
+1
+21
+c>60000 or d='jueves'
+4
+1
+52
+'no eres beneficiario de ningun descuento por ahora'
+13
+4
+1
+42
+'eres beneficiario de un descuento del 9%'
+4
+1
+43
+'en un momento le daremos su total a pagar'
+4
+1
+5
+'...'
+6
+2
+9
+descuento
+8
+c * 0.10
+5
+total
+13
+c - descuento
+4
+1
+5
+total
+13
+1

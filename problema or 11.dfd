@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+175
+acceso a biblioteca 
+pedir si el usuario tiene carnet o si es un estudiante registrado. si cumple alguna de las dos condiciones, puede entrar a la biblioteca. si no, no puede
+4
+1
+71
+'1.¿usted tiene un carnet?
+Responder con un si o un no entre comillas'
+5
+1
+1
+c
+4
+1
+92
+'2.¿es usted un estudiante de esta institucion?
+Responder con un si o un no entre comillas'
+5
+1
+1
+e
+7
+0
+1
+16
+c='si' or e='si'
+4
+1
+72
+'No tienes permitido entrar por que no cumples con nuestras condiciones'
+13
+4
+1
+87
+'puedes entrar a nuestra biblioteca espero que encuentres lo que buscas. Mucha suerte.'
+13
+1

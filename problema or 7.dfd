@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+174
+acceso al cine
+pedir si el usuario tiene una membresia de cine o si es miercoles. si alguna de las dos son verdaderas, aplicar un descuento del 15%. si no, no hay descuento.
+4
+1
+74
+'¿tu tienes una membresia de cine?
+por favor responder con un si o un no'
+5
+1
+1
+m
+4
+1
+94
+'por favor digitar el dia de la semana de hoy
+ejemplo: miercoles esto entre una sola comilla'
+5
+1
+1
+d
+7
+0
+1
+23
+m='si' or d='miercoles'
+4
+1
+42
+'no eres beneficiario de ningun descuento'
+13
+4
+1
+40
+'eres beneficiario del 15% de descuento'
+13
+1

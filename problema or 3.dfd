@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+151
+acceso a evento
+pedir si el usuario tiene invitacion o si compro la entrada. si tiene entrada o invitacion, permitir el acceso. si no, demegar acceso.
+4
+1
+88
+'por favor si compro la entrada digite el numero 1
+si no por favor digitar el numero 3'
+5
+1
+1
+e
+4
+1
+82
+'si tiene una invitacion digite el nuemro 2
+si no, por favor digitar el numero 3'
+5
+1
+1
+i
+7
+0
+1
+10
+e=1 or i=2
+4
+1
+41
+'no tienes permitido el acceso por ahora'
+13
+4
+1
+18
+'acceso concedido'
+13
+1

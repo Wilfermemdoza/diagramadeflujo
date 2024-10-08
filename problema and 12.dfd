@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+202
+promocion de viaje 
+pedir la cantidad de dias de estadia y si el cliente tiene targeta de credito. si la estadia es mayor a 5 dias y va a pagar con targeta de credito, se le aplica un descuento del 15%
+4
+1
+33
+'¿cuantos dias se va a hospedar?'
+5
+1
+4
+dias
+4
+1
+37
+'¿va a pagar con targeta o efectivo?'
+5
+1
+4
+pago
+7
+0
+1
+26
+dias>=5 and pago='targeta'
+4
+1
+26
+'no aplica para descuento'
+13
+4
+1
+31
+'aplica para descuento del 15%'
+4
+1
+25
+'digite su valor a pagar'
+5
+1
+1
+v
+6
+2
+9
+descuento
+8
+v * 0.15
+5
+total
+13
+v - descuento
+4
+1
+5
+total
+13
+1

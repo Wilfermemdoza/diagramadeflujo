@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+197
+requisitos para beca
+pedir la nota promedio y el numero de actividades extracurriculares. si la nota promedio es mayor a 4.5 y tiene mas de 3 actividades, otorgar una beca. si no, no aplicar nada.
+4
+1
+90
+'digite primero su nota promedio y despues el numero de sus actividades extracurriculares'
+5
+1
+4
+n, e
+7
+0
+1
+13
+n>4.5 and e>3
+4
+1
+69
+'no cumples cumples con los requisitos para una beca en este momento'
+13
+4
+1
+31
+'eres beneficiario de una beca'
+4
+1
+13
+'Felicidades'
+13
+1

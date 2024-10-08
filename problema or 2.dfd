@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+189
+descuento por fidelidad o monto
+pedir el total de la compra. si la compra supera los 100.000 o el cliente tiene targeta de fidelidad, aplicar un descuento del 10%. si no, no hay descuento.
+4
+1
+36
+'digite el valor total de su compra'
+5
+1
+1
+v
+4
+1
+40
+'¿usted tiene una targeta de fidelidad?'
+5
+1
+1
+f
+7
+0
+1
+18
+v>100000 or f='si'
+4
+1
+58
+'en este momento no eres beneficiario de ningun descuento'
+13
+4
+1
+55
+'eres beneficiario de un descuento del 10% Felicidades'
+4
+1
+39
+'tu valor total a pagar ahora es de...'
+6
+2
+9
+descuento
+6
+v*0.10
+5
+total
+13
+v - descuento
+4
+1
+5
+total
+13
+1

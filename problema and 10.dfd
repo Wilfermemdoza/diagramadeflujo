@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+167
+examen aprobado
+pedir las calificaciones de dos examenes. si ambas calificaciones son mayores o iguales de 3.0, el etsudienate aprueba. si no, el estudiente reprueba.
+4
+1
+38
+'digite las dos notas de los examenes'
+5
+1
+6
+e1, e2
+7
+0
+1
+17
+e1>3.0 and e2>3.0
+4
+1
+27
+'el estudiante a reprobado'
+13
+4
+1
+26
+'el estudiante a aprovado'
+13
+1

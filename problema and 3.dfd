@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+168
+pedir el salario mensual y sus años laboras si revibe mensulamente ,as de 3000000 y tiene mas de 5 años de experiencia laboral dar un bono del 10% de su sueldo mensual.
+4
+1
+37
+'por favor digite su salario mensual'
+5
+1
+1
+s
+4
+1
+50
+'por favor digite sus años de experiencia laboral'
+5
+1
+1
+e
+7
+0
+1
+17
+s>3000000 and e>5
+4
+1
+22
+'no aplicas para bono'
+13
+4
+1
+27
+'aplicas para bono del 10%'
+6
+1
+9
+operacion
+8
+s * 0.10
+4
+1
+27
+'tu bono es de un total de'
+4
+1
+9
+operacion
+13
+1

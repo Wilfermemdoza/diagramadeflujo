@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+148
+targeta de fidelidad
+pedir al cliente si tiene una targeta de fidelidad si es asi y su compra exede los 200.000 se le aplicara un descuento del 15%
+4
+1
+35
+'¿tienes una targeta de fidelidad?'
+5
+1
+9
+fidelidad
+4
+1
+46
+'por favor digite el valor total de su compra'
+5
+1
+6
+compra
+7
+0
+1
+32
+fidelidad='si' and compra>200000
+4
+1
+34
+'no aplicas para ningun descuento'
+13
+4
+1
+36
+'se le aplicara un descuento de 15%'
+6
+2
+9
+descuento
+13
+compra * 0.15
+5
+total
+18
+compra - descuento
+4
+1
+5
+total
+13
+1

@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+187
+participacion en sorteo
+pedir al usuario un numero entre 1 al 100, si el numero esta entre los siguientes es ganador 5, 26, 32, 68. gana el sorteo si le atina a alguno de los anteriores.
+4
+1
+40
+'por favor digitar el numero que elegio'
+5
+1
+1
+n
+7
+0
+1
+27
+n=5 or n=26 or n=32 or n=68
+4
+1
+20
+'sigue intentandolo'
+13
+4
+1
+28
+'eres el ganador del sorteo'
+13
+1

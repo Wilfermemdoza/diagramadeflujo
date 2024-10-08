@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+160
+descuento en supermercado
+pedir el valor  de una compra. si el valor supera los 150.000 o si es viernes, aplicar un descuento del 10%. si no, no hay descuento.
+4
+1
+40
+'por favor digite el valor de su compra'
+5
+1
+1
+c
+4
+1
+82
+'por favor digitar el dia de la semana de hoy
+por favor digitarlo entre comillas'
+5
+1
+1
+d
+7
+0
+1
+23
+c>150000 or d='viernes'
+4
+1
+52
+'por ahora no eres beneficiario de ningun descuento'
+13
+4
+1
+43
+'eres beneficiario de un descuento del 10%'
+4
+1
+67
+'en un momento se te aplicara el descuento a el valor de tu compra'
+4
+1
+16
+'tu total es...'
+6
+2
+9
+descuento
+8
+c * 0.10
+5
+total
+13
+c - descuento
+4
+1
+5
+total
+13
+1

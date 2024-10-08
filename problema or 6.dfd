@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+216
+ingreso a clase
+pedir si el estudiante asistio a mas de 70% de las clase o si tiene un promedio mayor a 4.5. si alguna de las dos condiciones se cumplen, puede presentar el examen final. si no, no puede presentarlo.
+4
+1
+62
+'por favor digitar el porcentaje de asistencia del estudiante'
+5
+1
+1
+p
+4
+1
+45
+'por favor digite el promedio del estudiante'
+5
+1
+4
+prom
+7
+0
+1
+16
+p>70 or prom>4.5
+4
+1
+50
+'el estudiante no puede presentar el examen final'
+13
+4
+1
+47
+'el estudiante puede presentar el examen final'
+13
+1

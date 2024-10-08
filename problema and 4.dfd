@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+114
+pedir contraseñpa y pregunta de seguridad si ambas son corresctas dejar pasar si no son correctas non dejar pasar.
+4
+1
+22
+'digite su contraseña'
+5
+1
+9
+contrasen
+4
+1
+33
+'digite la pregunta de seguridad'
+5
+1
+21
+pregunta_de_seguridad
+7
+0
+1
+53
+contrasen=12345678 and pregunta_de_seguridad='macaco'
+4
+1
+50
+'algo a ocurido en el proceso intentelo otra vez' 
+13
+4
+1
+12
+'bienvenido'
+13
+1
